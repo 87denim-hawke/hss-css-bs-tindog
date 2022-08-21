@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(67, 67, 223);
+}
+h1 {
+    font-family: 'Montserrat-Black', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 3rem; 
+    line-height: 1.5;
+    font-weight: 900;
+}
+
+#title {
+    background-color: rgb(204, 13, 13);
+}
